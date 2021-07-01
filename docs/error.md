@@ -6,4 +6,4 @@ export const FancyButton = ({ text = "Press" }) => {
   )
 }
 
-<FancyButton text="Foo" />
+<FancyButton text="Foo" />!

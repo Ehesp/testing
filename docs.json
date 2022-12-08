@@ -5,6 +5,8 @@
     "apiKey": "25626fae796133dc1e734c6bcaaeac3c",
     "indexName": "docsearch"
   },
+  "logo": "docs-page-logo-light.png",
+  "logoDark": "docs-page-logo-dark.png",
   "navigation": [
     ["Testing", "https://google.com"],
     ["Testing 2", "https://google.com"]

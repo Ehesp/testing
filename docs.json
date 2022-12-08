@@ -5,6 +5,7 @@
     "apiKey": "25626fae796133dc1e734c6bcaaeac3c",
     "indexName": "docsearch"
   },
+  "favicon": "https://abs.twimg.com/favicons/twitter.2.ico",
   "logo": "docs-page-logo-light.png",
   "logoDark": "docs-page-logo-dark.png",
   "navigation": [
